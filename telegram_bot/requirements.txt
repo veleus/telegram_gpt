@@ -1,0 +1,4 @@
+aiogram
+sqlalchemy
+pydantic
+openai==0.28
